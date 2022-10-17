@@ -4,7 +4,7 @@
 
 &emsp;&emsp;用人话讲就是：显示在录屏/直播的软件画面上的手柄
 
-![](image/展示.png)
+<img src="image/展示.png">
 
 ### 网站
 
